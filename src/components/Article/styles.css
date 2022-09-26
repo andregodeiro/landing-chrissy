@@ -1,0 +1,14 @@
+.article-container {
+  color: white;
+  text-align: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}

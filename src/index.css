@@ -4,4 +4,11 @@ body {
     "Helvetica Neue", sans-serif;
   background-color: rgb(35, 34, 34);
   box-sizing: border-box;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(21, 21, 22, 0.911),
+      rgba(31, 31, 31, 0.931)
+    ),
+    url("https://i.imgur.com/JmXpou5.jpg");
+  background-size: contain;
 }

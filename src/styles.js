@@ -17,6 +17,9 @@ export const ButtonTelegram = styled.button`
   align-items: center;
   font-size: 30px;
   color: black;
+  -webkit-box-shadow: 0px 0px 50px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 50px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 50px -7px rgba(0, 0, 0, 0.75);
 
   a {
     text-decoration: none;

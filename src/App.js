@@ -1,3 +1,4 @@
+import { Article } from "./components/Article/Article";
 import { Button } from "./components/Button/Button";
 import { DownloadApp } from "./components/DownloadApp/DownloadApp";
 import { HeaderLogo } from "./components/HeaderLogo/HeaderLogo";
@@ -10,6 +11,7 @@ function App() {
       <Main />
       <Button />
       <DownloadApp />
+      <Article />
     </div>
   );
 }

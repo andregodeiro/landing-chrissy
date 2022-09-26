@@ -11,6 +11,7 @@ h2 {
   display: flex;
   justify-content: center;
   gap: 100px;
+  flex-wrap: wrap;
 }
 
 .download-btns img {
