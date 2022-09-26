@@ -1,0 +1,20 @@
+.download-section {
+  text-align: center;
+  padding: 30px;
+}
+
+h2 {
+  color: white;
+}
+
+.download-btns {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+.download-btns img {
+  width: 300px;
+  min-width: 150px;
+  max-width: 300px;
+}
