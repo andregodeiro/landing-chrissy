@@ -8,3 +8,9 @@
 .header-logo img {
   width: 500px;
 }
+
+@media (max-width: 600px) {
+  img {
+    max-width: 350px;
+  }
+}

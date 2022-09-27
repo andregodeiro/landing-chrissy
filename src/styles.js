@@ -25,4 +25,10 @@ export const ButtonTelegram = styled.button`
     text-decoration: none;
     color: black;
   }
+
+  @media (max-width: 600px) {
+    max-width: 350px;
+    max-height: 90px;
+    font-size: 21px;
+  }
 `;

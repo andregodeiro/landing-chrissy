@@ -5,8 +5,8 @@ export const Main = () => {
   return (
     <div className="main-container">
       <h1>
-        GARANTA AS ANÁLISES MAIS COMPLETAS DO MERCADO E ENTRE AGORA NO MELHOR
-        GRUPO FREE DA NBA!
+        ENTRE AGORA NO MELHOR GRUPO FREE DA NBA E GARANTA AS ANÁLISES MAIS
+        COMPLETAS DO MERCADO!
       </h1>
     </div>
   );

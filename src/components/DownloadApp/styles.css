@@ -5,6 +5,7 @@
 
 h2 {
   color: white;
+  text-shadow: 0.1em 0.1em 0.2em black;
 }
 
 .download-btns {
@@ -18,4 +19,23 @@ h2 {
   width: 300px;
   min-width: 150px;
   max-width: 300px;
+}
+
+@media (max-width: 600px) {
+  h2 {
+    font-size: 19px;
+  }
+
+  .download-btns {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+
+  .download-btns img {
+    width: 150px;
+    min-width: 75px;
+    max-width: 150px;
+  }
 }
