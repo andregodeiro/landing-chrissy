@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../DownloadApp/styles.css";
+import "../DownloadApp/styles.css";
 
 export const DownloadApp = () => {
   return (

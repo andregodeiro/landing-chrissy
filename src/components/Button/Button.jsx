@@ -1,6 +1,6 @@
 import React from "react";
 import { ButtonTelegram } from "../../styles";
-import styles from "../Button/styles.css";
+import "../Button/styles.css";
 
 export const Button = () => {
   return (

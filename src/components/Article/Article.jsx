@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../Article/styles.css";
+import "../Article/styles.css";
 import { Button } from "../Button/Button";
 
 export const Article = () => {
