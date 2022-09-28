@@ -7,7 +7,11 @@ export const Button = () => {
     <div className="button-component">
       <ButtonTelegram className="redirect-btn">
         {" "}
-        <a href="https://t.me/chrissytirocertoTips" target={"_blank"}>
+        <a
+          href="https://t.me/chrissytirocertoTips"
+          target={"_blank"}
+          rel="noreferrer"
+        >
           PARTICIPAR DO GRUPO FREE
         </a>
       </ButtonTelegram>

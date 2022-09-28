@@ -9,6 +9,7 @@ export const DownloadApp = () => {
         <a
           href="https://apps.apple.com/br/app/telegram-messenger/id686449807"
           target={"_blank"}
+          rel="noreferrer"
         >
           <img
             src="https://i.imgur.com/cxmPWb2.png"
@@ -18,6 +19,7 @@ export const DownloadApp = () => {
         <a
           href="https://play.google.com/store/apps/details?id=org.telegram.messenger"
           target={"_blank"}
+          rel="noreferrer"
         >
           <img
             src="https://i.imgur.com/q7HwVrM.png"
